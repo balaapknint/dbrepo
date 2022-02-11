@@ -112,10 +112,7 @@ SELECT name, occupation FROM employee
 WHERE employee.emp_id  in  (SELECT attendence.empid FROM attendence   where date=''
 );
 
-in  						out 				DATE		empid
-11-02-2022 08.11.30 	11-02-2022 10.30.30
-11-02-2022 10.45.30		11-02-2022 12.30.30
-11-02-2022 13.15.30		11-02-2022 17.30.30
+
 
 
 
