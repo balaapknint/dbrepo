@@ -116,4 +116,3 @@ WHERE employee.emp_id  in  (SELECT attendence.empid FROM attendence   where date
 
 
 
-max(out)-min(in) where empid =id and date =
