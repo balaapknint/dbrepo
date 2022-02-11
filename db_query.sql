@@ -119,4 +119,3 @@ in  						out 				DATE		empid
 
 
 
-max(out)-min(in) where empid =id and date =
